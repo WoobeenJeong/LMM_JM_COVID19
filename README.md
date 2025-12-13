@@ -25,11 +25,11 @@ conda env export --from-history --name lmm_jm > environment.yml
 ```
 Project directory structure
 ```
-/home/ssm-user/project
-├─ 01_lasso.ipynb
-├─ 02_lmm.ipynb
-├─ 03_make_smi_from_csv.py
+/home/project
 └─ code/
+  ├─ 01_lasso.ipynb
+  ├─ 02_lmm.ipynb
+  ├─ 03_bootstrap_reproduct.ipynb
   └─ model.py
 └─ result/
   ├─ lmin_total.csv
