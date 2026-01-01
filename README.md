@@ -34,11 +34,9 @@ Project directory structure
 └─ result/
   ├─ lmin_total.csv
   └─
-└─ simulation_data/
-  ├─ 106_total
-  ├─ 106_oxygen
-  ├─ 106_urea
-  └─ 106_crp
+└─ simulation_mimic_data/
+  └─ 106_total
+
 
 ```
 
