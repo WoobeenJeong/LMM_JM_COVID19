@@ -29,7 +29,7 @@ Project directory structure
 └─ code/
   ├─ 01_lasso.ipynb
   ├─ 02_lmm.ipynb
-  ├─ 03_bootstrap_reproduct.ipynb
+  ├─ 03_bootstrap_reproduction.ipynb
   └─ model.py
 └─ result/
   ├─ lmin_total.csv
