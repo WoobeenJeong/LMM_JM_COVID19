@@ -14,7 +14,7 @@ https://coda.nih.go.kr/
 ---
 
 ### Baseline
-For the reproducibility, we commit environment.yml
+For the reproducibility, we commit this codes.
 
 R installation is required.
 
