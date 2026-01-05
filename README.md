@@ -14,7 +14,7 @@ https://coda.nih.go.kr/
 ---
 
 ### Baseline
-For the reproducibility, we commit this codes.
+For the reproducibility, we commit the codes
 
 R installation is required.
 
