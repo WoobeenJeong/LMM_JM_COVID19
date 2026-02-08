@@ -20,12 +20,14 @@ R installation is preferred.
 
 ```
 # from a terminal where the environment exists
+
 conda env create -f environment.yml
 conda activate lmm_jm
 
 ```
 Project directory structure
 ```
+
 /home/project
 └─ code/
   ├─ 01_lasso.ipynb
