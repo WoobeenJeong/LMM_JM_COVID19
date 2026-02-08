@@ -1,0 +1,33 @@
+name: lmm_jm
+channels:
+  - conda-forge
+  - defaults
+
+dependencies:
+  # --------------------
+  # Python
+  # --------------------
+  - python=3.12.10
+  - pandas=2.2.1
+  - numpy=1.26.4
+  - scipy=1.14.1
+  - patsy=1.0.1
+  - rpy2=3.6.1
+
+  # --------------------
+  # R base
+  # --------------------
+  - r-base=4.4.2
+
+  # --------------------
+  # R packages (CRAN)
+  # --------------------
+  - r-glmnet=4.1_8
+  - r-lme4=1.1_35.5
+  - r-glmmlasso=1.6.3
+
+  # --------------------
+  # System / math libs
+  # --------------------
+  - libblas
+  - liblapack
