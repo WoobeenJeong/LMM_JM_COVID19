@@ -20,8 +20,9 @@ R installation is preferred.
 
 ```
 # from a terminal where the environment exists
+conda env create -f environment.yml
 conda activate lmm_jm
-conda env export --from-history --name lmm_jm > environment.yml
+
 ```
 Project directory structure
 ```
