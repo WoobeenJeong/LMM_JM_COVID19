@@ -45,6 +45,9 @@ Project directory structure
 
 ---
 ### Abstract
+
+<img width="1200" height="1200" alt="image" src="https://github.com/user-attachments/assets/b11aac4d-0b00-463d-a8fa-519511fa29f3" />
+
 Although various severity prediction models for COVID-19 have been developed to guide clinical decision-making, substantial inter-individual variation in immune responses results in inconsistent disease trajectories. This variability contributes to clinical heterogeneity and poses challenges for standardized treatment strategies. 
 
 To reflect the complex and systemic nature of COVID-19 severity, we selected three physiologically distinct yet interrelated biomarkers—oxygen saturation, C-reactive protein (CRP), and blood urea levels—as response variables representing pulmonary, inflammatory, and renal function, respectively.
