@@ -3,6 +3,8 @@ Linear Mixed effect Model using Joint Modeling framework for COVID19 severity
 
 (Pulmonary, Renal and Immune dysfunction)
 
+https://www.sciencedirect.com/science/article/pii/S2589004226006681#bfn1
+
 ---
 
 ### The data set is available at CODA(Clinical and Omics Data Archive)
