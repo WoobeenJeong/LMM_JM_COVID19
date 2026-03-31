@@ -3,6 +3,7 @@ Linear Mixed effect Model using Joint Modeling framework for COVID19 severity
 
 (Pulmonary, Renal and Immune dysfunction)
 
+[ Paper ] Analysis of severity in COVID-19 patients by using longitudinal immune profiles
 https://www.sciencedirect.com/science/article/pii/S2589004226006681#bfn1
 
 ---
